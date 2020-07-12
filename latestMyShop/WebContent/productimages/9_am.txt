@@ -1,0 +1,34 @@
+admin
+________
+index.jsp(login)(no signup)
+dashboard.jsp
+	Product Category(CRUD) Rishabh
+	Product SubCategory(CRUD) Rishabh
+	Products(Display only) Rishabh			Pending(Rishabh)
+	Sellers(Edit Delete Show) Vaibhav 		Pending(Rishabh)
+	Buyer(Edit Delete Show) Vaibhav
+	admin users(CRUD) Vaibhav			Pending(Vaibhav)
+	Pending Orders(Display only)
+		BNO	BuyerID		Amount 	Details Link
+	Delivered Orders(Display only)
+		BNo	BuyerID		Amount 	Details Link
+	Complaints/Suggession
+		S.No	Buyer EMAIL ID	Message		Reply Button
+	Profile Update					pending(vaibhav)
+
+Seller
+___________
+signup not working						Pending(Rishabh)
+products not working  products combo sub category (Pending)(Rishabh
+
+index.jsp	(login with signup) (anshul)
+dashboard.jsp (anshul)
+	Products(CRUD) (anshul)
+	Pending Orders(Display only)
+		BNO	BuyerID		Amount 	Details Link  Delivered
+	Delivered Orders(Display only)
+		BNo	BuyerID		Amount 	Details Link
+	Profile(update only)
+
+Buyer
+	Display products with images  Pending()
